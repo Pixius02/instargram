@@ -1,0 +1,15 @@
+#baltan{
+    padding-left: 100px;
+    padding-right: 70px;
+    padding-top: 100px;
+    padding-bottom: 70px;
+    border: solid;
+    border-top-width: 100px;
+    border-left-width:100px;
+    border-right-width:30px;
+    border-bottom-width:30px;
+    border-top-color: red;
+    border-left-color:green;
+    border-right-color:blue;
+    border-bottom-color:yellow;
+}
