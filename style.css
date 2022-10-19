@@ -34,6 +34,7 @@ h2{
 .thumb{
     display:grid;
     grid-template-columns: 1fr 1fr 1fr;
+    
 }
 .nail{
     width:100%;
@@ -131,4 +132,7 @@ button{
 #name{
     font-size: 3vw;
 
+}
+.nail{
+    width:100%;
 }
